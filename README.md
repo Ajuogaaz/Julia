@@ -2,11 +2,11 @@
 Using cmaps in matlab to display Julia Sets in different Colors
 
 
-##Installation
+## Installation
 Use any licenced version of matlab after Version of 2016
 
-##Usage
-'''Matlab
+## Usage
+``` matlab 
 function Image = showJulia(EscTime,EscVal,limits)
 % SHOWJULIA Show a color image of a Julia set.
 %
@@ -62,5 +62,4 @@ set(gca,'YDir','normal');
 axis on;
 
 end
-
-'''
+```
