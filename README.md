@@ -63,3 +63,7 @@ axis on;
 
 end
 ```
+
+![Sample1](juliapic1.jpg)
+![Sample2](juliapic2.jpg)
+![Sample3](juliapic3.jpg)
